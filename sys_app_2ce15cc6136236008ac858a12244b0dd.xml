@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <enforce_license>log</enforce_license>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <license_model>none</license_model>
+        <logo/>
+        <menu display_value="Platform Projects BOM">a8e1500a136236008ac858a12244b05a</menu>
+        <name>Platform Projects BOM</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_snc_platform_pro</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description/>
+        <source>x_snc_platform_pro</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-06 19:05:39</sys_created_on>
+        <sys_id>2ce15cc6136236008ac858a12244b0dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-06 19:05:39</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <user_role display_value="x_snc_platform_pro.user" name="x_snc_platform_pro.user">60e1500a136236008ac858a12244b05e</user_role>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+</record_update>

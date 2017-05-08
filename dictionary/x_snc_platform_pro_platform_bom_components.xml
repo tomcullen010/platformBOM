@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="u_ii_platform_bom_template" label="Platform BOM Components" max_length="40" name="x_snc_platform_pro_platform_bom_components" type="collection">
+        <element label="Platform Project BOM" max_length="32" name="platform_project_bom" reference="x_snc_platform_pro_bom" type="reference"/>
+        <index name="index">
+            <element name="platform_project_bom"/>
+        </index>
+    </element>
+</database>
